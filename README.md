@@ -1,4 +1,4 @@
-# SW Clikcerbot - A Summoners War Click Bot
+# SW Clickerbot - A Summoners War Click Bot
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
